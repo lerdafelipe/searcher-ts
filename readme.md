@@ -20,4 +20,4 @@ Primera iteración:
 
 - [x] Haz que la búsqueda se haga automáticamente al escribir.
 
-- [ ] Evita que se haga la búsqueda continuamente al escribir (debounce)
+- [x] Evita que se haga la búsqueda continuamente al escribir (debounce)
